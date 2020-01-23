@@ -1,0 +1,3 @@
+Hello this is the hw assingment for cs372. We are gonna try to break this file by causing a conflict!
+Practice merge conflicts.
+The only way to find yourself is to loose yourself..... -someone...
